@@ -5,7 +5,7 @@ This repository contains code, reports, and publications written while earning m
 
 To see publications please visit [here](https://github.com/jlb123/Projects/tree/master/Publications). To view an additional paper recently published online ahead of the print version go [here](https://www.ncbi.nlm.nih.gov/pubmed/29140936).
 
-Below are examples illustrating the following ? 
+Below are examples illustrating the following:
 
 - Data cleaning/dataset creation: 
    - [CPS3 Data Cleaning](https://github.com/jlb123/Projects/blob/master/American%20Cancer%20Society/CPS3%20Data%20Cleaning/Physical%20Activity%20and%20Anthropometry%20Derived%20Variables.sas)
